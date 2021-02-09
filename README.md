@@ -6,18 +6,18 @@ With the current news of multple celebrities and regular people investing in the
 So I decided to understand and build my own blockchain... because what's better than building your own Blockchain... who knows... this might take off!
 
 ## Contents 
-* [Introduction]()
-* [Installation]()
-* [Building a Blockchain]()
-* [Hashing]()
-* [Setting the API]()
-* [Interaction]()
-* [Consensus]()
-* [Setting the user terminal]()
-* [Usability]()
-* [Summary](https://github.com/ssonkol/Blockchain_Lite)
-* [Citations](https://github.com/ssonkol/Blockchain_Lite)
-* [Social Media](https://github.com/ssonkol/Blockchain_Lite)
+* [Introduction](https://github.com/ssonkol/Blockchain_Lite#introduction)
+* [Installation](https://github.com/ssonkol/Blockchain_Lite#installation)
+* [Building a Blockchain](https://github.com/ssonkol/Blockchain_Lite#building-a-blockchain)
+* [Hashing](https://github.com/ssonkol/Blockchain_Lite#hashing)
+* [Setting the API](https://github.com/ssonkol/Blockchain_Lite#setting-the-api)
+* [Interaction](https://github.com/ssonkol/Blockchain_Lite#interaction)
+* [Consensus](https://github.com/ssonkol/Blockchain_Lite#consensus)
+* [Setting the user terminal](https://github.com/ssonkol/Blockchain_Lite#setting-the-user-terminal)
+* [Usability](https://github.com/ssonkol/Blockchain_Lite#usability)
+* [Summary](https://github.com/ssonkol/Blockchain_Lite#summary)
+* [Citations](https://github.com/ssonkol/Blockchain_Lite#citations)
+* [Social Media](https://github.com/ssonkol/Blockchain_Lite#social-media)
 
 
 ## Introduction
@@ -46,11 +46,13 @@ $ conda install requirements
 
 ## Hashing
 
-## Setting the API
+## Setting The API
 
 ## Interaction
 
-## Consensus 
+## Consensus
+
+## Setting The User Terminal
 
 ## Usability
 
@@ -60,4 +62,4 @@ $ conda install requirements
 - [Learn Blockchains by Building One](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46)
 
 ## Social Media 
-- [Linkden - Lawrence Ssonko](https://www.linkedin.com/in/lawrencessonko/)
+- [Linkedin - Lawrence Ssonko](https://www.linkedin.com/in/lawrencessonko/)
