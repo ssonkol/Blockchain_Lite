@@ -1,6 +1,5 @@
 import hashlib
 import json
-import flask
 from time import time
 from urllib.parse import urlparse
 from uuid import uuid4
@@ -286,7 +285,7 @@ if __name__ == '__main__':
     from argparse import ArgumentParser
 
     parser = ArgumentParser()
-    parser.add_argument('-p', '--port', default=5000, type=int, help='port to listen on')
+    parser.add_argument('-p', '--port', default=3000, type=int, help='port to listen on')
     args = parser.parse_args()
     port = args.port
 
